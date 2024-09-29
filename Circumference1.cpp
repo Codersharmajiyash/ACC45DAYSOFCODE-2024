@@ -1,6 +1,6 @@
 #include <iostream>
 
-Int main() {
+int main() {
 
 const double PI = 3.14159;
 
