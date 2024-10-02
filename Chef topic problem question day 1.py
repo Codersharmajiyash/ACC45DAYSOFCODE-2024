@@ -1,7 +1,7 @@
 
-T1 = ("A")
-T2 = ("B")
-T3 = ("C")
+T1 = ("A"),
+T2 = ("B"),
+T3 = ("C"),
 
 X = input("Topic recieved"),
 
