@@ -1,4 +1,4 @@
-temperatures converter
+//temperatures converter
 int main() {
 
 double temp;
@@ -13,7 +13,7 @@ std::cout << "F = Fahrenheit\n";
 
 std::cout << "C = Celsius\n";
 
-std::cout << "What unit would you like to convert to: ";
+std::cout << "What unit do you want to convert to: ";
 
 std::cin >> unit;
 
