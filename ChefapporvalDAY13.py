@@ -5,7 +5,7 @@ def is_expert(X, Y):
     else:
         return "Munchy is not an expert."
 
-# Example usage
+
 X = int(input("Enter the number of problems submitted (X): "))
 Y = int(input("Enter the number of problems approved (Y): "))
 
