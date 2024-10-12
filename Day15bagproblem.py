@@ -2,7 +2,7 @@ def min_bags_needed(N, K, M):
     
     capacity_per_bag = K * M
     
-    bags_needed = (N + capacity_per_bag - 1) // capacity_per_bag  # This ensures rounding up
+    bags_needed = (N + capacity_per_bag - 1) // capacity_per_bag  
     
     return bags_needed
 
